@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>Quartz 4</title>
-      <link>https://quartz.jzhao.xyz</link>
-      <description>Last 10 notes on Quartz 4</description>
+      <title>Personal Blog</title>
+      <link>https://blog.ilijalazarevic.com</link>
+      <description>Last 10 notes on Personal Blog</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>index</title>
+    <link>https://blog.ilijalazarevic.com/</link>
+    <guid>https://blog.ilijalazarevic.com/</guid>
+    <description><![CDATA[ This is your new vault. Make a note of something, create a link, or try the Importer! When you’re ready, delete this note and make the vault your own. ]]></description>
+    <pubDate>Thu, 26 Mar 2026 18:43:07 GMT</pubDate>
+  </item><item>
     <title>Applied Python: Pydantic</title>
-    <link>https://quartz.jzhao.xyz/Python/Tutorials/Applied-Python---Pydantic</link>
-    <guid>https://quartz.jzhao.xyz/Python/Tutorials/Applied-Python---Pydantic</guid>
+    <link>https://blog.ilijalazarevic.com/Python/Tutorials/Applied-Python---Pydantic</link>
+    <guid>https://blog.ilijalazarevic.com/Python/Tutorials/Applied-Python---Pydantic</guid>
     <description><![CDATA[ Working with data almost always starts with data clearning, parsing, and validating. Pydantic is a Python library that sets standards for how it should be done. ]]></description>
     <pubDate>Wed, 24 Jul 2024 05:14:21 GMT</pubDate>
   </item><item>
     <title>Advanced Python: Dot operator</title>
-    <link>https://quartz.jzhao.xyz/Python/Tutorials/Advanced-Python---Dot-operator</link>
-    <guid>https://quartz.jzhao.xyz/Python/Tutorials/Advanced-Python---Dot-operator</guid>
+    <link>https://blog.ilijalazarevic.com/Python/Tutorials/Advanced-Python---Dot-operator</link>
+    <guid>https://blog.ilijalazarevic.com/Python/Tutorials/Advanced-Python---Dot-operator</guid>
     <description><![CDATA[ Dot operator in Python is probably always overlooked, but it holds crucial mechanism for object-oriented programming. ]]></description>
     <pubDate>Sun, 01 Oct 2023 05:14:21 GMT</pubDate>
   </item><item>
     <title>Advanced Python: Metaclasses</title>
-    <link>https://quartz.jzhao.xyz/Python/Tutorials/Advanced-Python---Metaclasses</link>
-    <guid>https://quartz.jzhao.xyz/Python/Tutorials/Advanced-Python---Metaclasses</guid>
+    <link>https://blog.ilijalazarevic.com/Python/Tutorials/Advanced-Python---Metaclasses</link>
+    <guid>https://blog.ilijalazarevic.com/Python/Tutorials/Advanced-Python---Metaclasses</guid>
     <description><![CDATA[ Metaclasses in Python are advanced concepts, but let's see if we can unpack the complexity. ]]></description>
     <pubDate>Wed, 06 Sep 2023 05:14:21 GMT</pubDate>
   </item><item>
-    <title>index</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description><![CDATA[ This is your new vault. Make a note of something, create a link, or try the Importer! When you’re ready, delete this note and make the vault your own. ]]></description>
-    <pubDate>Wed, 23 Aug 2023 19:09:04 GMT</pubDate>
-  </item><item>
     <title>Advanced Python: Functions</title>
-    <link>https://quartz.jzhao.xyz/Python/Tutorials/Advanced-Python---Functions</link>
-    <guid>https://quartz.jzhao.xyz/Python/Tutorials/Advanced-Python---Functions</guid>
+    <link>https://blog.ilijalazarevic.com/Python/Tutorials/Advanced-Python---Functions</link>
+    <guid>https://blog.ilijalazarevic.com/Python/Tutorials/Advanced-Python---Functions</guid>
     <description><![CDATA[ Python functions advanced concepts ]]></description>
     <pubDate>Tue, 01 Aug 2023 05:14:21 GMT</pubDate>
   </item><item>
     <title>Managing Python Versions and Virtual Environments</title>
-    <link>https://quartz.jzhao.xyz/Python/Tutorials/Managing-Python-Versions-and-Virtual-Environments</link>
-    <guid>https://quartz.jzhao.xyz/Python/Tutorials/Managing-Python-Versions-and-Virtual-Environments</guid>
+    <link>https://blog.ilijalazarevic.com/Python/Tutorials/Managing-Python-Versions-and-Virtual-Environments</link>
+    <guid>https://blog.ilijalazarevic.com/Python/Tutorials/Managing-Python-Versions-and-Virtual-Environments</guid>
     <description><![CDATA[ The best complementary tools for managing virtual environments in Python development process ]]></description>
     <pubDate>Thu, 13 Jul 2023 12:21:28 GMT</pubDate>
   </item><item>
     <title>Is Python pass by value or pass by reference?</title>
-    <link>https://quartz.jzhao.xyz/Python/Tutorials/Is-Python-pass-by-value-or-pass-by-reference</link>
-    <guid>https://quartz.jzhao.xyz/Python/Tutorials/Is-Python-pass-by-value-or-pass-by-reference</guid>
+    <link>https://blog.ilijalazarevic.com/Python/Tutorials/Is-Python-pass-by-value-or-pass-by-reference</link>
+    <guid>https://blog.ilijalazarevic.com/Python/Tutorials/Is-Python-pass-by-value-or-pass-by-reference</guid>
     <description><![CDATA[ Is Python pass by value or pass by reference? ]]></description>
     <pubDate>Mon, 10 Jul 2023 12:21:28 GMT</pubDate>
   </item>
