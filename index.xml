@@ -12,51 +12,51 @@
     <description><![CDATA[ Welcome to my personal blog. My name is Ilija Lazarević. ]]></description>
     <pubDate>Tue, 31 Mar 2026 21:21:54 GMT</pubDate>
   </item><item>
-    <title>Daily Digest - Gulf War and AI Parallels</title>
-    <link>https://blog.ilijalazarevic.com/Digests/Daily-Digest---Gulf-War-and-AI-Parallels</link>
-    <guid>https://blog.ilijalazarevic.com/Digests/Daily-Digest---Gulf-War-and-AI-Parallels</guid>
+    <title>Gulf War and AI Parallels</title>
+    <link>https://blog.ilijalazarevic.com/Digests/Gulf-War-and-AI-Parallels</link>
+    <guid>https://blog.ilijalazarevic.com/Digests/Gulf-War-and-AI-Parallels</guid>
     <description><![CDATA[ Parallels between Gulf and AI domains ]]></description>
     <pubDate>Tue, 31 Mar 2026 10:01:00 GMT</pubDate>
   </item><item>
-    <title>Daily Digest - OpenAI Plus cancelled</title>
-    <link>https://blog.ilijalazarevic.com/Digests/Daily-Digest---OpenAI-Plus-cancelled</link>
-    <guid>https://blog.ilijalazarevic.com/Digests/Daily-Digest---OpenAI-Plus-cancelled</guid>
+    <title>OpenAI Plus cancelled</title>
+    <link>https://blog.ilijalazarevic.com/Digests/OpenAI-Plus-cancelled</link>
+    <guid>https://blog.ilijalazarevic.com/Digests/OpenAI-Plus-cancelled</guid>
     <description><![CDATA[ Reasons why I have decided to cancel my OpenAI Plust monthly subscription ]]></description>
     <pubDate>Mon, 30 Mar 2026 05:14:21 GMT</pubDate>
   </item><item>
-    <title>Applied Python: Pydantic</title>
-    <link>https://blog.ilijalazarevic.com/Python/Tutorials/Applied-Python---Pydantic</link>
-    <guid>https://blog.ilijalazarevic.com/Python/Tutorials/Applied-Python---Pydantic</guid>
+    <title>Using Pydantic 101</title>
+    <link>https://blog.ilijalazarevic.com/Tutorials/Python/Intermediary/Using-Pydantic-101</link>
+    <guid>https://blog.ilijalazarevic.com/Tutorials/Python/Intermediary/Using-Pydantic-101</guid>
     <description><![CDATA[ Working with data almost always starts with data clearning, parsing, and validating. Pydantic is a Python library that sets standards for how it should be done. ]]></description>
     <pubDate>Wed, 24 Jul 2024 05:14:21 GMT</pubDate>
   </item><item>
-    <title>Advanced Python: Dot operator</title>
-    <link>https://blog.ilijalazarevic.com/Python/Tutorials/Advanced-Python---Dot-operator</link>
-    <guid>https://blog.ilijalazarevic.com/Python/Tutorials/Advanced-Python---Dot-operator</guid>
+    <title>Dot operator</title>
+    <link>https://blog.ilijalazarevic.com/Tutorials/Python/Advanced/Dot-operator</link>
+    <guid>https://blog.ilijalazarevic.com/Tutorials/Python/Advanced/Dot-operator</guid>
     <description><![CDATA[ Dot operator in Python is probably always overlooked, but it holds crucial mechanism for object-oriented programming. ]]></description>
     <pubDate>Sun, 01 Oct 2023 05:14:21 GMT</pubDate>
   </item><item>
-    <title>Advanced Python: Metaclasses</title>
-    <link>https://blog.ilijalazarevic.com/Python/Tutorials/Advanced-Python---Metaclasses</link>
-    <guid>https://blog.ilijalazarevic.com/Python/Tutorials/Advanced-Python---Metaclasses</guid>
+    <title>Metaclasses</title>
+    <link>https://blog.ilijalazarevic.com/Tutorials/Python/Advanced/Metaclasses</link>
+    <guid>https://blog.ilijalazarevic.com/Tutorials/Python/Advanced/Metaclasses</guid>
     <description><![CDATA[ Metaclasses in Python are advanced concepts, but let's see if we can unpack the complexity. ]]></description>
     <pubDate>Wed, 06 Sep 2023 05:14:21 GMT</pubDate>
   </item><item>
-    <title>Advanced Python: Functions</title>
-    <link>https://blog.ilijalazarevic.com/Python/Tutorials/Advanced-Python---Functions</link>
-    <guid>https://blog.ilijalazarevic.com/Python/Tutorials/Advanced-Python---Functions</guid>
+    <title>Functions</title>
+    <link>https://blog.ilijalazarevic.com/Tutorials/Python/Advanced/Functions</link>
+    <guid>https://blog.ilijalazarevic.com/Tutorials/Python/Advanced/Functions</guid>
     <description><![CDATA[ Python functions advanced concepts ]]></description>
     <pubDate>Tue, 01 Aug 2023 05:14:21 GMT</pubDate>
   </item><item>
     <title>Managing Python Versions and Virtual Environments</title>
-    <link>https://blog.ilijalazarevic.com/Python/Tutorials/Managing-Python-Versions-and-Virtual-Environments</link>
-    <guid>https://blog.ilijalazarevic.com/Python/Tutorials/Managing-Python-Versions-and-Virtual-Environments</guid>
+    <link>https://blog.ilijalazarevic.com/Tutorials/Python/Intermediary/Managing-Python-Versions-and-Virtual-Environments</link>
+    <guid>https://blog.ilijalazarevic.com/Tutorials/Python/Intermediary/Managing-Python-Versions-and-Virtual-Environments</guid>
     <description><![CDATA[ The best complementary tools for managing virtual environments in Python development process ]]></description>
     <pubDate>Thu, 13 Jul 2023 12:21:28 GMT</pubDate>
   </item><item>
     <title>Is Python pass by value or pass by reference?</title>
-    <link>https://blog.ilijalazarevic.com/Python/Tutorials/Is-Python-pass-by-value-or-pass-by-reference</link>
-    <guid>https://blog.ilijalazarevic.com/Python/Tutorials/Is-Python-pass-by-value-or-pass-by-reference</guid>
+    <link>https://blog.ilijalazarevic.com/Tutorials/Python/Intermediary/Is-Python-pass-by-value-or-pass-by-reference</link>
+    <guid>https://blog.ilijalazarevic.com/Tutorials/Python/Intermediary/Is-Python-pass-by-value-or-pass-by-reference</guid>
     <description><![CDATA[ Is Python pass by value or pass by reference? ]]></description>
     <pubDate>Mon, 10 Jul 2023 12:21:28 GMT</pubDate>
   </item>
