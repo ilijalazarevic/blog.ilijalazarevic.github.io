@@ -6,6 +6,24 @@
       <description>Last 10 notes on Ilija Lazarević</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>AI is masking your competence</title>
+    <link>https://blog.ilijalazarevic.com/Digests/AI-is-masking-your-competence</link>
+    <guid>https://blog.ilijalazarevic.com/Digests/AI-is-masking-your-competence</guid>
+    <description><![CDATA[ AI-powered content generation automation is very luring for new content creators ]]></description>
+    <pubDate>Wed, 15 Jul 2026 21:21:00 GMT</pubDate>
+  </item><item>
+    <title>attachme</title>
+    <link>https://blog.ilijalazarevic.com/attachme</link>
+    <guid>https://blog.ilijalazarevic.com/attachme</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 15 Jul 2026 17:48:58 GMT</pubDate>
+  </item><item>
+    <title>Untitled</title>
+    <link>https://blog.ilijalazarevic.com/Untitled</link>
+    <guid>https://blog.ilijalazarevic.com/Untitled</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 15 Jul 2026 17:40:06 GMT</pubDate>
+  </item><item>
     <title>Going Through The AI Storm</title>
     <link>https://blog.ilijalazarevic.com/Digests/Going-Through-The-AI-Storm</link>
     <guid>https://blog.ilijalazarevic.com/Digests/Going-Through-The-AI-Storm</guid>
@@ -47,24 +65,6 @@
     <guid>https://blog.ilijalazarevic.com/Tutorials/Python/Advanced/Dot-operator</guid>
     <description><![CDATA[ Dot operator in Python is probably always overlooked, but it holds crucial mechanism for object-oriented programming. ]]></description>
     <pubDate>Sun, 01 Oct 2023 05:14:21 GMT</pubDate>
-  </item><item>
-    <title>Metaclasses</title>
-    <link>https://blog.ilijalazarevic.com/Tutorials/Python/Advanced/Metaclasses</link>
-    <guid>https://blog.ilijalazarevic.com/Tutorials/Python/Advanced/Metaclasses</guid>
-    <description><![CDATA[ Metaclasses in Python are advanced concepts, but let's see if we can unpack the complexity. ]]></description>
-    <pubDate>Wed, 06 Sep 2023 05:14:21 GMT</pubDate>
-  </item><item>
-    <title>Functions</title>
-    <link>https://blog.ilijalazarevic.com/Tutorials/Python/Advanced/Functions</link>
-    <guid>https://blog.ilijalazarevic.com/Tutorials/Python/Advanced/Functions</guid>
-    <description><![CDATA[ Python functions advanced concepts ]]></description>
-    <pubDate>Tue, 01 Aug 2023 05:14:21 GMT</pubDate>
-  </item><item>
-    <title>Managing Python Versions and Virtual Environments</title>
-    <link>https://blog.ilijalazarevic.com/Tutorials/Python/Intermediary/Managing-Python-Versions-and-Virtual-Environments</link>
-    <guid>https://blog.ilijalazarevic.com/Tutorials/Python/Intermediary/Managing-Python-Versions-and-Virtual-Environments</guid>
-    <description><![CDATA[ The best complementary tools for managing virtual environments in Python development process ]]></description>
-    <pubDate>Thu, 13 Jul 2023 12:21:28 GMT</pubDate>
   </item>
     </channel>
   </rss>
